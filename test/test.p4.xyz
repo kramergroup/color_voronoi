@@ -1,0 +1,6 @@
+4
+# Test Voronoi, 1 region.
+C -1 0   0 1
+C  1 0   0 1
+C  0 2   0 1
+C  0 0.5 0 1
